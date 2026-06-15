@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF78B1F-F28B-7CAB-11D0-EE00A93D6078}|PROJE20\\PROJE20.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF78B1F-F28B-7CAB-11D0-EE00A93D6078}|PROJE20\\PROJE20.csproj|solutionrelative:proje20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714976EE-D634-2EF3-89F3-64543D6B2BB2}|PROJE21\\PROJE21.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714976EE-D634-2EF3-89F3-64543D6B2BB2}|PROJE21\\PROJE21.csproj|solutionrelative:proje21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172E47-7B74-A86B-C952-A9B47CD34157}|PROJE18\\PROJE18.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F172E47-7B74-A86B-C952-A9B47CD34157}|PROJE18\\PROJE18.csproj|solutionrelative:proje18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36600F8F-3104-8ED4-E6D6-58196AF049AA}|PROJE19\\PROJE19.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36600F8F-3104-8ED4-E6D6-58196AF049AA}|PROJE19\\PROJE19.csproj|solutionrelative:proje19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C7DF54-2A21-BDE9-2820-65AD8E73CF94}|PROJE8\\PROJE8.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C7DF54-2A21-BDE9-2820-65AD8E73CF94}|PROJE8\\PROJE8.csproj|solutionrelative:proje8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC45FB-D474-A1D5-0931-515DAC5D677A}|PROJE10\\PROJE10.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC45FB-D474-A1D5-0931-515DAC5D677A}|PROJE10\\PROJE10.csproj|solutionrelative:proje10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC45FB-D474-A1D5-0931-515DAC5D677A}|PROJE10\\PROJE10.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje10\\proje10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EEC45FB-D474-A1D5-0931-515DAC5D677A}|PROJE10\\PROJE10.csproj|solutionrelative:proje10\\proje10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9B6AE6-5E76-20C0-235F-7BC8921B1D19}|PROJE17\\PROJE17.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9B6AE6-5E76-20C0-235F-7BC8921B1D19}|PROJE17\\PROJE17.csproj|solutionrelative:proje17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D2BB86-E65B-A3F5-67E9-449E82308308}|PROJE1\\PROJE1.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D2BB86-E65B-A3F5-67E9-449E82308308}|PROJE1\\PROJE1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086A23E1-FEE0-B2D7-23DD-E2D5E92D8512}|PROJE11\\PROJE11.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086A23E1-FEE0-B2D7-23DD-E2D5E92D8512}|PROJE11\\PROJE11.csproj|solutionrelative:proje11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25471533-37F6-DF26-3807-45DCBC85ECC0}|PROJE15\\PROJE15.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25471533-37F6-DF26-3807-45DCBC85ECC0}|PROJE15\\PROJE15.csproj|solutionrelative:proje15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF9167D-ED2B-D3E5-EB18-4B623ECEA56D}|PROJE2\\PROJE2.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF9167D-ED2B-D3E5-EB18-4B623ECEA56D}|PROJE2\\PROJE2.csproj|solutionrelative:proje2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEA3A7B-AA54-1D5E-EB34-6E3BE4B14924}|PROJE22\\PROJE22.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEA3A7B-AA54-1D5E-EB34-6E3BE4B14924}|PROJE22\\PROJE22.csproj|solutionrelative:proje22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FD1A24-2FAD-DC01-7641-FD6CA8BB97FB}|PROJE23\\PROJE23.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FD1A24-2FAD-DC01-7641-FD6CA8BB97FB}|PROJE23\\PROJE23.csproj|solutionrelative:proje23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607696CB-3CA1-8057-09A9-2C846A5A6030}|PROJE24\\PROJE24.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607696CB-3CA1-8057-09A9-2C846A5A6030}|PROJE24\\PROJE24.csproj|solutionrelative:proje24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F667F66-F46B-0E9B-21A2-B0B38F13E57D}|PROJE12\\PROJE12.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F667F66-F46B-0E9B-21A2-B0B38F13E57D}|PROJE12\\PROJE12.csproj|solutionrelative:proje12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD765E43-F175-EE28-5E8C-CDFF19505D25}|PROJE16\\PROJE16.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD765E43-F175-EE28-5E8C-CDFF19505D25}|PROJE16\\PROJE16.csproj|solutionrelative:proje16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B38A3CF-32AA-6B1A-16DB-34366A500C15}|PROJE14\\PROJE14.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B38A3CF-32AA-6B1A-16DB-34366A500C15}|PROJE14\\PROJE14.csproj|solutionrelative:proje14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4579E3E2-B662-9438-8E47-A860B3CE33F0}|PROJE13\\PROJE13.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4579E3E2-B662-9438-8E47-A860B3CE33F0}|PROJE13\\PROJE13.csproj|solutionrelative:proje13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4639BEA-E37A-0CFD-5F85-72AD4F82CF13}|PROJE9\\PROJE9.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4639BEA-E37A-0CFD-5F85-72AD4F82CF13}|PROJE9\\PROJE9.csproj|solutionrelative:proje9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD98EE7-61C7-ECDD-F6DD-57775C2A396B}|PROJE7\\PROJE7.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD98EE7-61C7-ECDD-F6DD-57775C2A396B}|PROJE7\\PROJE7.csproj|solutionrelative:proje7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69595A34-42FC-57D1-62E3-96486326E9A3}|PROJE6\\PROJE6.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69595A34-42FC-57D1-62E3-96486326E9A3}|PROJE6\\PROJE6.csproj|solutionrelative:proje6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B900FE-78C5-875D-F765-0EFE6C19C300}|PROJE5\\PROJE5.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B900FE-78C5-875D-F765-0EFE6C19C300}|PROJE5\\PROJE5.csproj|solutionrelative:proje5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24EF6A8-A943-1BDE-7631-2E7B616662D9}|PROJE4\\PROJE4.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24EF6A8-A943-1BDE-7631-2E7B616662D9}|PROJE4\\PROJE4.csproj|solutionrelative:proje4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFA7EA0-7653-8D67-59F9-7D7B36B51087}|PROJE3,\\PROJE3,.csproj|c:\\users\\enes1\\onedrive\\belgeler\\visual studio 18\\2025 2026 g\u00FCz\\g\u0130thub \u00F6dev\\proje3,\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFA7EA0-7653-8D67-59F9-7D7B36B51087}|PROJE3,\\PROJE3,.csproj|solutionrelative:proje3,\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE11\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE11\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE11\\Program.cs",
+              "RelativeToolTip": "PROJE11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:57:31.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE2\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE2\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE2\\Program.cs",
+              "RelativeToolTip": "PROJE2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:53:47.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE19\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE19\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE19\\Program.cs",
+              "RelativeToolTip": "PROJE19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T10:00:08.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE18\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE18\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE18\\Program.cs",
+              "RelativeToolTip": "PROJE18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:59:36.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE17\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE17\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE17\\Program.cs",
+              "RelativeToolTip": "PROJE17\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:59:21.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PROJE10.csproj",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE10\\PROJE10.csproj",
+              "RelativeDocumentMoniker": "PROJE10\\PROJE10.csproj",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE10\\PROJE10.csproj",
+              "RelativeToolTip": "PROJE10\\PROJE10.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-11T10:03:14.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE10\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE10\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE10\\Program.cs",
+              "RelativeToolTip": "PROJE10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:57:01.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE8\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE8\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE8\\Program.cs",
+              "RelativeToolTip": "PROJE8\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:56:28.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE20\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE20\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE20\\Program.cs",
+              "RelativeToolTip": "PROJE20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T10:00:25.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE1\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE1\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE1\\Program.cs",
+              "RelativeToolTip": "PROJE1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:52:25.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE21\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE21\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE21\\Program.cs",
+              "RelativeToolTip": "PROJE21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T10:00:42.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE15\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE15\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE15\\Program.cs",
+              "RelativeToolTip": "PROJE15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:58:45.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE12\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE12\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE12\\Program.cs",
+              "RelativeToolTip": "PROJE12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:57:55.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE24\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE24\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE24\\Program.cs",
+              "RelativeToolTip": "PROJE24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T10:01:39.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE23\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE23\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE23\\Program.cs",
+              "RelativeToolTip": "PROJE23\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T10:01:24.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE22\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE22\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE22\\Program.cs",
+              "RelativeToolTip": "PROJE22\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T10:01:00.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE16\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE16\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE16\\Program.cs",
+              "RelativeToolTip": "PROJE16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:58:59.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE14\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE14\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE14\\Program.cs",
+              "RelativeToolTip": "PROJE14\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA7wCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:58:27.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE13\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE13\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE13\\Program.cs",
+              "RelativeToolTip": "PROJE13\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:58:11.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE9\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE9\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE9\\Program.cs",
+              "RelativeToolTip": "PROJE9\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:56:45.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE7\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE7\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE7\\Program.cs",
+              "RelativeToolTip": "PROJE7\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:56:11.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE6\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE6\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE6\\Program.cs",
+              "RelativeToolTip": "PROJE6\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:55:50.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE5\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE5\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE5\\Program.cs",
+              "RelativeToolTip": "PROJE5\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:55:35.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE4\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE4\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE4\\Program.cs",
+              "RelativeToolTip": "PROJE4\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:55:20.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE3,\\Program.cs",
+              "RelativeDocumentMoniker": "PROJE3,\\Program.cs",
+              "ToolTip": "C:\\Users\\enes1\\OneDrive\\Belgeler\\Visual Studio 18\\2025 2026 g\u00FCz\\G\u0130THUB \u00D6DEV\\PROJE3,\\Program.cs",
+              "RelativeToolTip": "PROJE3,\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:54:52.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

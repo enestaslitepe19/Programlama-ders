@@ -1,0 +1,14 @@
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\bin\Debug\net10.0\PROJE8.exe
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\bin\Debug\net10.0\PROJE8.deps.json
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\bin\Debug\net10.0\PROJE8.runtimeconfig.json
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\bin\Debug\net10.0\PROJE8.dll
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\bin\Debug\net10.0\PROJE8.pdb
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\obj\Debug\net10.0\PROJE8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\obj\Debug\net10.0\PROJE8.AssemblyInfoInputs.cache
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\obj\Debug\net10.0\PROJE8.AssemblyInfo.cs
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\obj\Debug\net10.0\PROJE8.csproj.CoreCompileInputs.cache
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\obj\Debug\net10.0\PROJE8.dll
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\obj\Debug\net10.0\refint\PROJE8.dll
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\obj\Debug\net10.0\PROJE8.pdb
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\obj\Debug\net10.0\PROJE8.genruntimeconfig.cache
+C:\Users\enes1\OneDrive\Belgeler\Visual Studio 18\2025 2026 güz\GİTHUB ÖDEV\PROJE8\obj\Debug\net10.0\ref\PROJE8.dll
